@@ -10,8 +10,7 @@ npm run build:testnet-widget
 
 
 # update repo or clone
-#rm -rf WalletWpPlugin
-git clone https://sorentobot:$1@github.com/swaponline/WalletWpPlugin.git
+#rm -rf JasWalletWpPlugin
 cd WalletWpPlugin/vendors/swap
 git checkout master
 git fetch origin
